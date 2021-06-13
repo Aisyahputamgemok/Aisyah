@@ -1,0 +1,28 @@
+<html>
+<head>
+</head>
+
+<body>
+<body background="C:\Users\user\Pictures/18a96f4d5156a891fb6ca497b79cbdf5.jpg">
+
+<table border="1">
+<h2> My Pets</h2>
+  <tr>
+    <th>Name</th>
+    <th>Profile</th>
+</tr>
+<tr>
+<td>Putam<img src="Pictures/Putam.jpg"width="20%" height="35%"</td>
+<td>Oldest cat</td>
+</tr>
+<tr>
+<td>Kakashi</td>
+<td>Middle cat</td>
+</tr>
+<tr>
+<td>Levi</td>
+<td>Youngest cat</td>
+
+</body>
+
+</html>
